@@ -1,1 +1,1 @@
-# html-project-resume
+# html-home-resume
